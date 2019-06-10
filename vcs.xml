@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/wangzhzh/AutoTrackAppStartAppEnd" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wangzhzh/AutoTrackAppClick1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\yaoyu\Documents\GitHub" />
