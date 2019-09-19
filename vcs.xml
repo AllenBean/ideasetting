@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/PhilJay/MPAndroidChart.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.zmaxis.com" />
+          <option name="userName" value="yuan.yao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\yaoyu\Documents\GitHub" />
